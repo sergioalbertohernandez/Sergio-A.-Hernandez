@@ -1,0 +1,34 @@
+
+/* Estilos para el encabezado */
+head {
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+/* Estilos para el título */
+title {
+  color: #333333;
+  font-size: 20px;
+}
+
+/* Estilos para el cuerpo */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Estilos para el botón */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Cambiar el estilo del botón al pasar el cursor sobre él */
+button:hover {
+  background-color: #45a049;
+}
